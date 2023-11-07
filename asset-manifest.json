@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/virtualized-list/static/js/main.6adb84b3.js",
+    "main.js": "/virtualized-list/static/js/main.a91d4802.js",
     "index.html": "/virtualized-list/index.html",
-    "main.6adb84b3.js.map": "/virtualized-list/static/js/main.6adb84b3.js.map"
+    "main.a91d4802.js.map": "/virtualized-list/static/js/main.a91d4802.js.map"
   },
   "entrypoints": [
-    "static/js/main.6adb84b3.js"
+    "static/js/main.a91d4802.js"
   ]
 }
