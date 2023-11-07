@@ -1,11 +1,11 @@
 import { Suspense } from "react";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 
 export const withRouter = (Component: React.ComponentType) => () =>
   (
-    <BrowserRouter>
+    <HashRouter>
       <Suspense>
         <Component />
       </Suspense>
-    </BrowserRouter>
+    </HashRouter>
   );
